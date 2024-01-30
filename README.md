@@ -21,3 +21,9 @@ Contribuições são bem-vindas! Se você tem ideias para aprimorar este jogo de
 ## Agradecimentos 🙌🙌
 Este código foi desenvolvido com base em conhecimentos adquiridos durante estudos, sendo orientado e inspirado por projetos anteriores compartilhados por colegas e mentores. Agradecemos pela oportunidade de aprendizado proporcionada.
 
+## Fotos do projeto:
+
+- inicio do tabuleiro: <br> 
+  ![image](https://github.com/Hkaua/Sistema-xadrez-java/assets/115200562/a2247704-3282-4f38-8be3-ed460d097ea1)
+
+
