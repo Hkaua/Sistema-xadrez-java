@@ -10,6 +10,7 @@ O principal objetivo deste projeto é criar um jogo de xadrez interativo, propor
 ## Tecnologias Utilizadas 🛠️
 - Java <br>
 - IDE Eclipse
+- Git
 
 
 ## Funcionalidades 🎯
