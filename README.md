@@ -26,6 +26,8 @@ Este código foi desenvolvido com base em conhecimentos adquiridos durante estud
 
 - inicio do tabuleiro: <br> 
   ![image](https://github.com/Hkaua/Sistema-xadrez-java/assets/115200562/a2247704-3282-4f38-8be3-ed460d097ea1)
+  ![image](https://github.com/Hkaua/Sistema-xadrez-java/assets/115200562/fc0f8f1f-23bc-47e6-9be9-71693f0ba44c)
+
 ![image](https://github.com/Hkaua/Sistema-xadrez-java/assets/115200562/c7d8714d-e321-4035-9683-bd96c8e6b8e1)
 
 
