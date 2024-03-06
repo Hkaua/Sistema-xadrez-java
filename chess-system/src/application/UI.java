@@ -47,7 +47,7 @@ public class UI {
 			int row = Integer.parseInt(s.substring(1));
 			return new ChessPosition(column, row);
 		} catch (RuntimeException e) {
-			throw new InputMismatchException("Error ao carregar ChessPosition. valor valido � de a1 at� h8. ");
+			throw new InputMismatchException("Error ao carregar ChessPosition. valor valido de a1 ate h8. ");
 		}
 	}
 	
@@ -58,6 +58,9 @@ public class UI {
 		System.out.println();
 		System.out.println("Turno : " + chessMatch.getTurn());
 		System.out.println("Esperando o jogador: " + chessMatch.getCurrentPlayer());
+		if (chessMatch.getCheck()) {
+			System.out.println("CHECK!");
+		}
 	}
 
 	public static void printBoard(ChessPiece[][] pieces) {
@@ -68,7 +71,7 @@ public class UI {
 			}
 			System.out.println();
 		}
-		System.out.println(" a b c d e f g h");
+		System.out.println("  a b c d e f g h");
 	}
 	
 	public static void printBoard(ChessPiece[][] pieces, boolean[][] possiblesMoves) {
