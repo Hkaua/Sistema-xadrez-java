@@ -18,25 +18,24 @@ public abstract class ChessPiece extends Piece {
 		return color;
 	}
 	
-	public int getMoveConunt() {
+	public int getMoveCount() {
 		return moveCount;
 	}
-
+	
 	public void increaseMoveCount() {
 		moveCount++;
 	}
 
-	public void decreasseMoveCount() {
+	public void decreaseMoveCount() {
 		moveCount--;
 	}
 
 	public ChessPosition getChessPosition() {
 		return ChessPosition.fromPosition(position);
 	}
-
+	
 	protected boolean isThereOpponentPiece(Position position) {
-		ChessPiece p = (ChessPiece) getBoard().piece(position);
+		ChessPiece p = (ChessPiece)getBoard().piece(position);
 		return p != null && p.getColor() != color;
 	}
-
 }
