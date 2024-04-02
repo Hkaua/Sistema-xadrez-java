@@ -7,7 +7,7 @@ Este é um projeto de um jogo de xadrez desenvolvido utilizando Java como lingua
 
 O principal objetivo deste projeto é criar um jogo de xadrez interativo, proporcionando uma experiência de usuário envolvente e desafiadora.
 
-## Tecnologias Utilizadas 🛠️
+## Tecnologias Utilizadas 🛠️ 
 - Java <br> 
 - IDE Eclipse
 - Git
