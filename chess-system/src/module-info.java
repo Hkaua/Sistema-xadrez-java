@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Chess {
+module Chess_news {
 }
